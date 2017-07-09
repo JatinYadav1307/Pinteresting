@@ -1,0 +1,18 @@
+$body-bg: 									#f4f4f4;
+$font-family-sans-serif: 					'Helvetica Neue', Helvetica, Arial, sans-serif;
+$navbar-height:								45px;
+$navbar-default-bg: 						white;
+$navbar-default-brand-color: 				#c0392b;
+$brand-primary: 							#c0392b;
+$jumbotron-bg: 								white;
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
